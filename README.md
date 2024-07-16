@@ -1,36 +1,28 @@
 ## About Me
 About Me Repository 
-👨‍💻 Abhishek Kumar 👨‍🎓 | 1st Year BA Student | Full-Stack Web Development Enthusiast 🌐
+👨‍💻 Abhishek Kumar | 2st Year BA Student | Full-Stack Web Development Enthusiast 🌐
 
-Welcome to my profile! I am Abhishek Kumar, a diligent and ambitious first-year BA student, pursuing my academic journey at Indira Gandhi National Open University (IGNOU) . With a genuine passion for technology and an insatiable curiosity to understand its intricacies, I am currently focused on mastering the art of Full-stack Web Development.
-
-📚 Education:
-- Bachelor of Arts (BA) - 1st Year Student at Indira Gandhi National Open University (IGNOU)
+Hi there! I'm Abhishek Kumar, a 2nd year BA student at Indira Gandhi National Open University (IGNOU), with a passion for technology and a keen interest in web development.
 
 💻 Skills:
-- Web Development: Proficient in HTML & CSS
+1) HTML & CSS.
+2) Responsive Design.
+3) Problem solving.
+4) Learning mindset.
 
-- Learning: Actively expanding my knowledge in various areas of Web Development
+📚 Education:
+Bachelor of Arts (BA) 2st Year at IGNOU.
+
+I am actively learning and expanding my web development knowledge and skills.
 
 🎯 Professional Goals:
-- Becoming a Versatile Full-stack Developer: Equipping myself with a diverse skill set to create end-to-end 
-web solutions with efficiency and excellence.
-
-- Exploring Frameworks: Eager to delve into popular frameworks to streamline development processes and optimize user experiences.
-
-- Continuous Growth: Committed to staying at the forefront of technological advancements to adapt to the ever-evolving tech landscape.
+Become a Skilled Developer:
+Aim to build a strong foundation in both front-end and back-end development to deliver efficient and effective web solutions.
 
 🚀 Tech Enthusiast & Lifelong Learner:
-Beyond Full-stack Web Development, I am enthusiastic about:
-
-- Understanding Technologies: Uncovering the potential of emerging technologies and their transformative 
- impact on various industries.
-
-- Problem Solving: Thriving on challenges and devising innovative solutions that contribute to the advancement of technology.
-
-- Networking: Building meaningful connections with professionals who share a passion for cutting-edge technology
+Exploring technologies and their impact.
+Solving challenges with innovative solutions.
+Networking with professionals passionate about tech.
 
 🤝 Let's Connect!
-I am open to connecting with like-minded individuals, fellow students, educators, and industry professionals who share a common interest in technology and web development. Feel free to reach out, and Let's collaborate, exchange ideas, and make meaningful contributions together. 
-
-🌟 Wishing you all a Grate Day filled with enthusiasm and determination to pursue your dreams and passions!
+I'm eager to connect with fellow students, educators, and industry professionals in technology and web development. Let's collaborate, share ideas, and grow together.
